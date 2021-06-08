@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">仿朴朴购物车</string>
+    <string name="behavior_top">com.demo.pupucart.TopBehavior</string>
+    <string name="behavior_bottom">com.demo.pupucart.BottomBehavior</string>
+</resources>
